@@ -1,7 +1,9 @@
 ## Effect of Education, Income, and Geography on Commuting Behaviors
 
 •⁠ Project: Data pipeline& Dashboard + Statistical Model with Python
+
 •⁠ Duration: Feb 2025 - May 2025
+
 •⁠ Team Members: Lucas Li, Reese Yang, Max Migdon
 
 ***💻 Background***
