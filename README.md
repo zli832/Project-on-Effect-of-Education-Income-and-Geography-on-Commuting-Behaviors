@@ -63,10 +63,14 @@ Overall, the results suggest that household income, regional location, and commu
 
 ***🔍 Literature Review***
 
-Source 1: https://journals.sagepub.com/doi/10.1177/03611981241233285?icid=int.sj-abstract.citing-articles.1、
+Source 1: https://journals.sagepub.com/doi/10.1177/03611981241233285?icid=int.sj-abstract.citing-articles.
+
 Source 2: https://link.springer.com/article/10.1007/s11116-020-10124-w
+
 Source 3: https://www.economist.com/1843/2016/11/28/rethinking-the-commute
+
 Source 4: https://graphics.wsj.com/urban-income-polarization/
+
 Source 5: https://www.economist.com/graphic-detail/2017/01/31/how-colleges-affect-social-mobility-in-america
 
 Education, income, and social status play significant roles in shaping commuting behaviors, influencing both the mode of transportation and the duration of commutes. Higher levels of education are often associated with greater job opportunities, which can lead to longer commutes as individuals seek employment in high-paying urban centers (Sage Journals, Springer). Income levels, on the other hand, affect commuting flexibility—wealthier individuals have greater access to private vehicles or premium public transit options, while lower-income workers may face longer, less efficient commutes due to reliance on public transportation and carpooling (WSJ, Economist). Social status and neighborhood income distribution further impact commuting efficiency, with wealthier areas having better infrastructure and transportation networks, whereas lower-income regions often experience inadequate transit options, reinforcing economic disparities (Economist, WSJ). Ultimately, these factors create a commuting landscape where privilege affords convenience, while socioeconomic constraints can exacerbate commuting burdens.
