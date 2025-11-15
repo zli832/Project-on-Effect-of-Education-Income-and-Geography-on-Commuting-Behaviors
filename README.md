@@ -4,13 +4,13 @@
 •⁠ Duration: Feb 2025 - May 2025
 •⁠ Team Members: Lucas Li, Reese Yang, Max Migdon
 
-###💻Background
+***💻Background***
 
 This project investigates how socioeconomic factors—specifically education level, income, and geographical characteristics—influence commuting behaviors in the United States. Using microdata from the IPUMS American Community Survey (ACS), this analysis explores patterns in commute time, travel mode, and work hours across demographic groups.
 
 The goal is to understand the determinants of commuting burden and mobility behavior, which are relevant for urban planning, labor economics, and public policy.
 
-###📊 Project Overview
+***📊 Project Overview***
 
 Commuting behavior varies widely across individuals. This project answers questions such as:
 - Do people with higher education tend to have longer or shorter commutes?
@@ -22,7 +22,8 @@ The project uses large-scale U.S. microdata to identify statistical patterns and
 
 
 
-###Literature Review
+***Literature Review***
+
 Source 1: https://journals.sagepub.com/doi/10.1177/03611981241233285?icid=int.sj-abstract.citing-articles.1
 
 Source 2: https://link.springer.com/article/10.1007/s11116-020-10124-w
